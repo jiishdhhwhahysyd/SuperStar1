@@ -29,5 +29,5 @@ jobs:
           CHAOXING_COURSE_LIST: ${{ secrets.CHAOXING_COURSE_LIST }}
         run: |
           python main.py -u 13621339025 -p jingchuan0211 -l 266967732 -j 1 &
-          python main.py -u 15652009150 -p jpf0105@ -l 266967735 -j 1 &
+          python main.py -u 15652009150 -p jpf0105@ -l 266967732 -j 1 &
           wait
