@@ -28,5 +28,5 @@ jobs:
           CHAOXING_PASSWORD: ${{ secrets.CHAOXING_PASSWORD }}
           CHAOXING_COURSE_LIST: ${{ secrets.CHAOXING_COURSE_LIST }}
         run: |
-          python main.py -u 1810298307 -p ztk20090120 -l 266967732 -j 1 &
+          python main.py -u 1810292307 -p ztk20090120 -l 266967732 -j 1 &
           wait
