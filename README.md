@@ -19,13 +19,3 @@
 
 之前本仓库就因为明文账号密码泄露导致一些同学账号被盗拿来恶作剧(不得不说世界上还是坏人多)，故提前在此说明，希望大家周知
 
-## 快速开始
-
-<a href="https://blog.springing.top/p/20241119/" target="blank">点击我查看操作说明</a>
-
-<a href="https://github.com/Samueli924/chaoxing" target="blank">灵感来源</a>
-
-## 赞助
->如果觉着代码对你有帮助，可以赞赏一下开发者
-
-![截图](/images/reward.jpg)
